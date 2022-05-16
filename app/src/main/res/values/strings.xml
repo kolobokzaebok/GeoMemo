@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoMemo</string>
+    <string name="add_geo_memo_button">Add Geo Memo Button</string>
+    <string name="no_memos_found_press_the_add_button_to_create_new_ones">No Memos found. Press the Add button to create new ones.</string>
+    <string name="memo_image">Memo Image</string>
+    <string name="gmaps_api">ZALUPA</string>
+    <string name="date">Date</string>
+    <string name="location">location</string>
+    <string name="add_picture">Add picture</string>
+    <string name="save_memo">Save Memo</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="view_on_map">View On Map</string>
+</resources>
